@@ -13,6 +13,10 @@ Session 3 working code - complete
 Session 3 Groupwork - not yet started
 Session 3 Assignment - not yet started
 
-Session 4 working code
-Session 4 Groupwork
-Session 4 Assignment
+Session 4 working code - complete
+Session 4 Groupwork - not yet started
+Session 4 Assignment - not yet started
+
+Session 5 working code - complete
+Session 5 Groupwork - not yet started
+Session 5 Assignment - not yet started

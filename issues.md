@@ -31,6 +31,17 @@ issue:      'Run All' button in GitHub does not run all the code on the page.
 Solution:   I think patience is neeed here, don't press this button while the code is still loading up.
             If needed press the Run All button again after a minute, or if you run code sections that show errors, having previously worked OK.
 
+issue:      how do I commit my code to GitHub?
+Solution:   see MN Notes saved here:     D:\Mark\work\04 ESCC\a training\2024 Python\MN Python additional learning notes.docx
+
 issue:      how do I back up my cloud code to my PC?
 Solution:   easy if using GitHub Desktop
             see MN Notes on GitHub backups, saved here:     D:\Mark\work\04 ESCC\a training\2024 Python\backups\
+
+issue:      sometimes the changes from a later cell affect an earlier cell.
+            e.g. if we have made a few changes to dataframe 'df', then those changes can affect the outputs of cells earlier/higher in the ipynb file, that refer to the df dataframe.
+solution:   At the top of that ipynb file, press 'Run All'.
+
+issue:      If you can’t log in to GitHub...
+solution:   You can use this web browser environment as your codespace. It has limited functionality, pure Python only.
+            https://teams.microsoft.com/l/message/19:meeting_MTdkNGU4ODItMjUxZi00YWVkLWI5ODAtYmU1MmNlZGMyNzEx@thread.v2/1709298554314?context=%7B%22contextType%22%3A%22chat%22%7D
