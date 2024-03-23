@@ -1,22 +1,23 @@
 Assignments are to be done in sheet "assignments.ipynb"
 
-Session 1 working code - complete
-Session 1 Groupwork - MN to finish work on loop, where dictionary has a key & 2 values
-Session 1 Assignment - not yet started
+Session 1 Group work - complete
+Session 2 Group work - complete
+Session 3 Group work - not yet started
+Session 4 Group work - not yet started
+Session 5 Group work - complete
+Session 6a Group work - complete
+Session 6b Group work - not yet started
 
-
-Session 2 working code - complete
-Session 2 Groupwork - complete
-Session 2 Assignment - not yet started
-
-Session 3 working code - complete
-Session 3 Groupwork - not yet started
-Session 3 Assignment - not yet started
-
-Session 4 working code - complete
-Session 4 Groupwork - not yet started
-Session 4 Assignment - not yet started
-
-Session 5 working code - complete
-Session 5 Groupwork - not yet started
-Session 5 Assignment - not yet started
+Assignment 1, Part 1 - not yet started
+Assignment 1, Part 2 - not yet started
+Assignment 2, Part 1 - not yet started
+Assignment 2, Part 2 - not yet started
+Assignment 3, Part 1 - not yet started
+Assignment 4, Part 1 - not yet started
+Assignment 4, Part 2 - not yet started
+Assignment 4, Part 3 - not yet started
+Assignment 5, Part 1 - not yet started
+Assignment 5, Part 2 - not yet started
+Assignment 5, Part 3 - not yet started
+Assignment 6, Part 1 - not yet started
+Assignment 6, Part 2 - not yet started
