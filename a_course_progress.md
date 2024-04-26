@@ -11,8 +11,8 @@ Session 6b Group work - complete
 Assignment 1, Part 1 - complete
 Assignment 1, Part 2 - complete
 Assignment 2, Part 1 - complete
-Assignment 2, Part 2 - not yet started
-Assignment 3, Part 1 - not yet started
+Assignment 2, Part 2 - complete
+Assignment 3, Part 1 - complete
 Assignment 4, Part 1 - not yet started
 Assignment 4, Part 2 - not yet started
 Assignment 4, Part 3 - not yet started
