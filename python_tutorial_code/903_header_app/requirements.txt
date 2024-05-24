@@ -1,2 +1,2 @@
 plotly
-# what is this requirements file doing? above line it is essential
+# what is this requirements file doing? The above line is essential
