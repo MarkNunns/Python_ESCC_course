@@ -1,4 +1,3 @@
-
 # this is MN's working file during Session 9, it works OK
 
 import streamlit as st
@@ -101,7 +100,6 @@ if upload:
     st.write(f'The most represented ethnicity is: {most_represented_eth}.')
     st.write(f'The least represented ethnicity is: {least_represented_eth}')
     st.write(f'The ratio of male to female is: {male_count / female_count}.')
-
 
     st.dataframe(df_clean) 
 
