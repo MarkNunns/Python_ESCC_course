@@ -52,7 +52,7 @@ st.title('903 header analysis tool')
 upload = st.file_uploader('Please upload 903 header as a .csv')
 
 if upload:
-    st.write('File sucsesfully uploaded')
+    st.write('File sucessfully uploaded')
 
     df_upload = pd.read_csv(upload)
     df_clean = data_cleaner(df_upload)
