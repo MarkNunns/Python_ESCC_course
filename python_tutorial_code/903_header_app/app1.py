@@ -1,4 +1,4 @@
-# this is MN's working file during Session 9, it works OK
+""" this is MN's working file during Session 9, it works OK"""
 
 import streamlit as st
 import pandas as pd
@@ -30,7 +30,7 @@ def data_cleaner(df):
 
 # Plotting functions
 def age_bar(df):
-    fig = px.histogram(df, 
+    fig = px.histogram(df,
                        x='SEX',
                        title='Breakdown by gender of 903 data',
                        labels={'SEX':'Sex of children'})
@@ -38,9 +38,9 @@ def age_bar(df):
     return fig
 
 def ethnicity_pie(df):
-    ethnic_count = df.groupby('ETHNIC')['ETHNIC'].count().reset_index(name='count')
+    ethnic_count2 = df.groupby('ETHNIC')['ETHNIC'].count().reset_index(name='count')
 
-    fig = px.pie(ethnic_count,
+    fig = px.pie(ethnic_count2,
                  values='count',
                  names='ETHNIC',
                  title='Breakdown of 903 data by ethnicity')
@@ -77,13 +77,10 @@ if upload:
         default=ethnicity_list
     )
 
-
-
     age_condition = (df_clean['AGE'] >= age_range[0]) & (df_clean['AGE'] <= age_range[1])
     ethnicity_condition = df_clean['ETHNIC'].isin(ethnicities)
 
     df_clean = df_clean[age_condition & ethnicity_condition]
-
 
     # Summary stats
     ethnic_count = df_clean.groupby('ETHNIC')['ETHNIC'].count().reset_index(name='count')
@@ -101,10 +98,10 @@ if upload:
     st.write(f'The least represented ethnicity is: {least_represented_eth}')
     st.write(f'The ratio of male to female is: {male_count / female_count}.')
 
-    st.dataframe(df_clean) 
+    st.dataframe(df_clean)
 
     age_bar_fig = age_bar(df_clean)
-    st.plotly_chart(age_bar_fig) 
+    st.plotly_chart(age_bar_fig)
 
     ethnic_pie_fig = ethnicity_pie(df_clean)
     st.plotly_chart(ethnic_pie_fig)
