@@ -1,4 +1,4 @@
-""" this is MN's working file during Session 9, it works OK"""
+""" this is MN's working file during Module 1 Session 9, it works OK"""
 
 import streamlit as st
 import pandas as pd
