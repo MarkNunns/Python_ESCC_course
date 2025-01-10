@@ -1,3 +1,4 @@
 plotly
+plotly.express
 # A requirements file is often/always needed for an app.py file. Content of this requirements file is provided by Will here:
 # https://github.com/data-to-insight/ERN-sessions/tree/main/No%20Local%20Python
