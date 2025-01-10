@@ -45,10 +45,3 @@ solution:   At the top of that ipynb file, press 'Run All'.
 issue:      If you can’t log in to GitHub...
 solution:   You can use this web browser environment as your codespace. It has limited functionality, pure Python only.
             https://teams.microsoft.com/l/message/19:meeting_MTdkNGU4ODItMjUxZi00YWVkLWI5ODAtYmU1MmNlZGMyNzEx@thread.v2/1709298554314?context=%7B%22contextType%22%3A%22chat%22%7D
-
-
-Intermittent error
-issue:      “Streamlit preview” tab shows as completely black & empty
-            This is a glitch known by Will LP.
-Solution:	close the “Streamlit preview” tab, then “Launch preview” again
-            go to SF-nova (splodge icon) and select “Launch preview”, creating a tab called “Streamlit preview”
