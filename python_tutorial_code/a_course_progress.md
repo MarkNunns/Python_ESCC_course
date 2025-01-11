@@ -34,9 +34,8 @@ Session 1 - complete in VS Code & in GitHub
 Session 2 - complete in VS Code & in GitHub
 Session 3 - complete in VS Code & in GitHub
 Session 4 - complete in VS Code & in GitHub
-Session 5 - complete in VS Code only
-Session 6 - complete in VS Code only
-Session 7 - complete in VS Code only
-Session 8a & 8b - complete in GitHub only (see app2a.py file)
-Session 9a - complete in GitHub only (see app2b.py file)
-Session 9b - complete in GitHub only (see app2c.py file)
+Session 5 - complete, only working in VS Code so far
+Session 6 - complete, only working in VS Code so far
+Session 7 - complete, only working in VS Code so far
+Session 8 - complete, only working in GitHub so far (see app2a.py file)
+Session 9 - complete, only working in GitHub so far (see app2b.py and app2c.py files)
